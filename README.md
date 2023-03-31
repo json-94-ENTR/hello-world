@@ -12,3 +12,6 @@ This is an example of a GitHub repository.
 
 Yo
 Sup
+This is wicked. 
+. 
+More changes. 
